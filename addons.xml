@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<?xml version="1.0" encoding="UTF-8"?>
 <addon id="skin.embuary2k.omega" version="21.0.1" name="Embuary 2K (Omega)" provider-name="sualfred, jamal2367, Teddyknuddel, Stogie">
 	<requires>
 		<import addon="script.embuary.helper" version="1.3.6"/>
@@ -31,3 +33,4 @@
 		</assets>
 	</extension>
 </addon>
+</addons>
